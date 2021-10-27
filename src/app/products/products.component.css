@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: #034f84;
+}
+ul{
+    display:flex;
+    flex-wrap: wrap;
+}
+li{
+    list-style: none;
+    background-color: #034f84;
+    border: solid 2px #85a2f1;
+    border-radius: 30px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    width: 40em;
+    color: azure;
+}

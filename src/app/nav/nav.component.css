@@ -1,0 +1,40 @@
+header {
+	background-color: #92a8d1;   /* lighter purple */
+    
+    border-radius: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 1em;
+	
+}
+
+h1{text-align: center; color: #034f84;}
+
+header nav {
+	justify-self: center;
+    
+}
+
+nav ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+nav ul li a {
+	padding: 0 2em;
+	font-size: 1em;
+	text-transform: uppercase;
+    text-decoration: none;
+    color: #030303;
+}
+
+nav ul li a:hover {
+	background-color: #034f84;  /* darker purple */
+    border-radius: 22px;
+}

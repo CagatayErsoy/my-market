@@ -1,0 +1,39 @@
+#full-container{
+    margin: auto;
+  width: 50%;
+  border: solid 2px green;
+  padding: 3em;
+}
+label {
+    display: block;
+}
+
+input, textarea {
+    display: block;
+    width: 50%;
+    margin-bottom: 1.3em;
+    padding: 1em;
+}
+
+.err {
+    margin-top: -1.3em;
+    background: #ffff99; /* light yellow */
+    color: red;
+    padding: 0.5em;
+    display: inline-block;
+    margin-bottom: 1.3em;
+}
+
+.finalresults {
+    margin-top: 3em;
+    border: 1px solid #00b118;
+}
+
+.btnsub {
+    background-color: #00b14a; /* mix of purple blue */
+    color: rgb(255, 246, 246);
+    font-weight: bold;
+    border: transparent;
+    border-radius: 5px;
+    padding: 1em;
+}
